@@ -12,8 +12,28 @@ Please read the [course overview](../)
 1. Fork this repository already 
    https://github.com/gkappler/MathDataScienceProgramming/fork
    (adapt bio and train editing in GitHub with copy & pasting your previous homeworks)
-   *delete this line for your homework*.
-   *put together your own homework notes delete this line for your homework*.
+ My notes!
+There is a story in winnie-the-Pooh by Milne who was a mathematician:
+Piglet is a fearful being, and very afraid of the Heffalump.
+Pooh wants to help and builds a Heffalump trap: a big hole.
+
+Piglet has doubts that this will work, as a fearful being... and asks for proof.
+
+Pooh proof: 
+
+the heffalump will walk along, and it is a nice day, 
+thus the heffalump will look up to the clear sky and think "what a nice day", 
+thus not seeing the hole, 
+thus woops he is trapped.
+
+Piglet has a doubt: "what if it is raining?"
+Pooh: if it is raining, the heffalump will look up to the sky and wonder "when will it clear up?", 
+thus not seeing the hole, 
+thus woops he is trapped.
+
+Hmmm.
+```
+
 
 2. Pooh proof
    - What type of proof does Piglet point out?
@@ -23,7 +43,7 @@ Please read the [course overview](../)
 ### Your learning notes of the week:
 #### What was easy to understand? 
 *Write a topic 
-Why?
+Why? 
 
 #### What was hard to understand? 
 
