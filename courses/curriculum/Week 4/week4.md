@@ -10,21 +10,23 @@ title: Curriculum Course MDSP - Week 4
 
 1. Why is the colloquial term "relation" justified for the Cartesian product *A* x *B* of two sets *A* and *B*?
 
-   *Reply here, use formal notation*.
 
 2. Why is a function a relation?  What special kind of relation is a function?
-    
-   *Reply here, use formal notation*.
+A relation from a set X to a set Y is called a function if each element of X is related to exactly one element in Y. That is, given an element x in X, there is only one element in Y that x is related to.
+
+This is a function since each element from X is related to only one element in Y. 
 
 3. Do you agree with "[tertium non datur](https://en.wikipedia.org/wiki/Law_of_excluded_middle)"?
-   
+Tertium non datur or Law of the excluded middle Stipulate that any statement is either true or false, except future contigent statements about the future. My point of disagreement is the problem of future contigents and logical determinism. 
    
 4. Russel's paradox
 
    This paradox refuted the first formal set definition of [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege#Work_as_a_logician) (who was spiritually devasted by this).
    
    Why might Gottlob have been so upset about it?
-   
+ Russell's paradox shows that every set theory that contains an unrestricted comprehension principle leads to contradictions. 
+It was following his work The Foundations of Arithmetic, where he attempted to derive arithmetic from logic, that Russell sent him the paradox that bears his name. Nevertheless Frege did not intend to reduce mathematical reasoning to its only logical dimension. His ideography aimed to associate on the same page, and in an explicit way, the mathematical content (horizontal line of the page) and the logical structure (vertical line).
+ 
 ### Your learning notes of the week:
 #### What was surprising? 
 
