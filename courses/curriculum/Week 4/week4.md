@@ -10,7 +10,8 @@ title: Curriculum Course MDSP - Week 4
 
 1. Why is the colloquial term "relation" justified for the Cartesian product *A* x *B* of two sets *A* and *B*?
 
-   *Reply here, use formal notation*.
+A binary relation over sets X and Y is a subset of the Cartesian product X × Y; that is, it is a set of ordered pairs (x, y) consisting of elements x in X and y in Y. An element x is related to an element y, if and only if the pair (x, y) belongs to the set of ordered pairs that defines the binary relation. A binary relation is the most studied special case n = 2 of an n-ary relation over sets X1, ..., Xn, which is a subset of the Cartesian product X1 × ... × Xn. 
+
 
 2. Why is a function a relation?  What special kind of relation is a function?
     
