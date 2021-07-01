@@ -13,8 +13,8 @@ title: Curriculum Course MDSP - Week 4
    *Reply here, use formal notation*.
 
 2. Why is a function a relation?  What special kind of relation is a function?
-    
-   *Reply here, use formal notation*.
+A relation from a set X to a set Y is called a function if each element of X is related to exactly one element in Y. That is, given an element x in X, there is only one element in Y that x is related to.
+This is a function since each element from X is related to only one element in Y.
 
 3. Do you agree with "[tertium non datur](https://en.wikipedia.org/wiki/Law_of_excluded_middle)"?
    
